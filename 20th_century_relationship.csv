@@ -1,0 +1,775 @@
+source, target
+France,Russia
+France,Russia
+Russia,Germany
+Germany,Austria
+Austria,Hungary
+Hungary,Bulgaria
+Bulgaria,Russia
+France,Russia
+Russia,Germany
+Germany,Austria
+Austria,Hungary
+Hungary,Bulgaria
+Bulgaria,Russia
+Russia,Germany
+Germany,Russia
+France,Russia
+Russia,Germany
+Germany,Austria
+Austria,Hungary
+Hungary,Bulgaria
+Bulgaria,Russia
+Russia,Germany
+Germany,Russia
+Russia,Germany
+France,Russia
+Russia,Germany
+Germany,Austria
+Austria,Hungary
+Hungary,Bulgaria
+Bulgaria,Russia
+Russia,Germany
+Germany,Russia
+Russia,Germany
+France,Russia
+Russia,Germany
+Germany,Austria
+Austria,Hungary
+Hungary,Bulgaria
+Bulgaria,Russia
+Russia,Germany
+Germany,Russia
+Russia,Germany
+Germany,Austria
+Austria,Hungary
+Hungary,Bulgaria
+Bulgaria,Russia
+Russia,Germany
+Germany,Russia
+Russia,Germany
+Germany,Russia
+Russia,Germany
+Germany,Italy
+Germany,Italy
+Italy,Germany
+Germany,Italy
+Italy,Germany
+Germany,Italy
+Italy,Germany
+Germany,Austria
+Austria,Germany
+Germany,Italy
+Italy,Germany
+Germany,Austria
+Austria,Germany
+Germany,Italy
+Italy,Germany
+Germany,Austria
+Austria,Germany
+Germany,Austria
+Austria,Germany
+Germany,Austria
+Austria,Germany
+Germany,Spain
+Austria,Germany
+Germany,Spain
+Britain,France
+France,Poland
+Britain,France
+France,Poland
+Britain,France
+France,Poland
+Poland,Britain
+Britain,France
+France,Germany
+Germany,Poland
+Poland,Soviet Union
+Britain,France
+France,Poland
+Poland,Britain
+Britain,France
+France,Germany
+Germany,Poland
+Poland,Soviet Union
+Britain,France
+France,Poland
+Poland,Britain
+Britain,France
+France,Germany
+Germany,Poland
+Poland,Soviet Union
+Britain,France
+France,Poland
+Poland,Britain
+Britain,France
+France,Germany
+Germany,Poland
+Poland,Soviet Union
+Poland,Britain
+Britain,France
+France,Germany
+Germany,Poland
+Poland,Soviet Union
+Britain,France
+France,Germany
+Germany,Poland
+Poland,Soviet Union
+Soviet Union,Poland
+Poland,Germany
+Poland,Germany
+Germany,Estonia
+Estonia,Latvia
+Latvia,Lithuania
+Lithuania,Finland
+Poland,Germany
+Germany,Estonia
+Estonia,Latvia
+Latvia,Lithuania
+Lithuania,Finland
+Finland,Germany
+Poland,Germany
+Germany,Estonia
+Estonia,Latvia
+Latvia,Lithuania
+Lithuania,Finland
+Finland,Germany
+Germany,Poland
+Poland,Luxembourg
+Poland,Germany
+Germany,Estonia
+Estonia,Latvia
+Latvia,Lithuania
+Lithuania,Finland
+Finland,Germany
+Germany,Poland
+Poland,Luxembourg
+Poland,Germany
+Germany,Estonia
+Estonia,Latvia
+Latvia,Lithuania
+Lithuania,Finland
+Finland,Germany
+Germany,Poland
+Poland,Luxembourg
+Luxembourg,Belgium
+Estonia,Latvia
+Latvia,Lithuania
+Lithuania,Finland
+Finland,Germany
+Germany,Poland
+Poland,Luxembourg
+Luxembourg,Belgium
+Belgium,Denmark
+Denmark,Norway
+Germany,Poland
+Poland,Luxembourg
+Luxembourg,Belgium
+Belgium,Denmark
+Denmark,Norway
+Poland,Luxembourg
+Luxembourg,Belgium
+Belgium,Denmark
+Denmark,Norway
+Norway,Denmark
+Denmark,Sweden
+Sweden,Germany
+Belgium,Denmark
+Denmark,Norway
+Norway,Denmark
+Denmark,Sweden
+Sweden,Germany
+Germany,France
+Belgium,Denmark
+Denmark,Norway
+Norway,Denmark
+Denmark,Sweden
+Sweden,Germany
+Germany,France
+Denmark,Norway
+Norway,Denmark
+Denmark,Sweden
+Sweden,Germany
+Germany,France
+Norway,Denmark
+Denmark,Sweden
+Sweden,Germany
+Germany,France
+Norway,Denmark
+Denmark,Sweden
+Sweden,Germany
+Germany,France
+France,Italy
+Italy,Britain
+Britain,Great Britain
+France,Italy
+Italy,Britain
+Britain,Great Britain
+Great Britain,Britain
+France,Italy
+Italy,Britain
+Britain,Great Britain
+Great Britain,Britain
+Britain,Germany
+France,Italy
+Italy,Britain
+Britain,Great Britain
+Great Britain,Britain
+Britain,Germany
+Italy,Britain
+Britain,Great Britain
+Great Britain,Britain
+Britain,Germany
+Italy,Britain
+Britain,Great Britain
+Great Britain,Britain
+Britain,Germany
+Britain,Germany
+Germany,Britain
+Germany,Britain
+Britain,Greece
+Greece,Albania
+Albania,Greece
+Britain,Greece
+Greece,Albania
+Albania,Greece
+Britain,Greece
+Greece,Albania
+Albania,Greece
+Greece,Albania
+Albania,Greece
+Greece,Albania
+Albania,Greece
+Greece,Ukraine
+Ukraine,Belarus
+Greece,Albania
+Albania,Greece
+Greece,Ukraine
+Ukraine,Belarus
+Ukraine,Belarus
+Ukraine,Belarus
+Ukraine,Belarus
+Belarus,Libya
+Libya,Egypt
+Ukraine,Belarus
+Belarus,Libya
+Libya,Egypt
+Egypt,Libya
+Libya,Egypt
+Egypt,Libya
+Libya,Egypt
+Libya,Egypt
+Egypt,Libya
+Libya,Egypt
+Egypt,Iraq
+Libya,Egypt
+Egypt,Libya
+Libya,Egypt
+Egypt,Iraq
+Libya,Egypt
+Egypt,Libya
+Libya,Egypt
+Egypt,Iraq
+Libya,Egypt
+Egypt,Iraq
+Egypt,Iraq
+Japan,Germany
+Japan,Germany
+Germany,Japan
+Japan,Russia
+Japan,Germany
+Germany,Japan
+Japan,Russia
+Russia,Germany
+Germany,Italy
+Japan,Germany
+Germany,Japan
+Japan,Russia
+Russia,Germany
+Germany,Italy
+Japan,Germany
+Germany,Japan
+Japan,Russia
+Russia,Germany
+Germany,Italy
+Italy,Germany
+Japan,Germany
+Germany,Japan
+Japan,Russia
+Russia,Germany
+Germany,Italy
+Italy,Germany
+Japan,Russia
+Russia,Germany
+Germany,Italy
+Italy,Germany
+Germany,Italy
+Italy,Germany
+Germany,Britain
+Britain,Morocco
+Morocco,Algeria
+Algeria,Italy
+Britain,Morocco
+Morocco,Algeria
+Algeria,Italy
+Britain,Morocco
+Morocco,Algeria
+Algeria,Italy
+Britain,Morocco
+Morocco,Algeria
+Algeria,Italy
+Britain,Morocco
+Morocco,Algeria
+Algeria,Italy
+Morocco,Algeria
+Algeria,Italy
+Italy,Britain
+Italy,Britain
+Italy,Britain
+Britain,France
+Britain,France
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+Germany,France
+Germany,France
+Germany,France
+Britain,France
+Britain,France
+Britain,France
+Britain,France
+France,Poland
+Poland,Germany
+Britain,France
+France,Poland
+Poland,Germany
+Britain,France
+France,Poland
+Poland,Germany
+Poland,Germany
+Poland,Germany
+Poland,Germany
+Japan,China
+Japan,China
+China,Japan
+Japan,China
+China,Japan
+Japan,China
+China,Japan
+Japan,China
+China,Japan
+Japan,China
+China,Japan
+Japan,China
+China,Japan
+Japan,Germany
+Germany,Japan
+Japan,China
+China,Japan
+Japan,China
+China,Japan
+Japan,Germany
+Germany,Japan
+Japan,Thailand
+Thailand,Singapore
+Singapore,Hong Kong
+Hong Kong,Guam
+Japan,China
+China,Japan
+Japan,Germany
+Germany,Japan
+Japan,Thailand
+Thailand,Singapore
+Singapore,Hong Kong
+Hong Kong,Guam
+Guam,Japan
+Japan,Philippines
+Philippines,Japan
+Japan,China
+China,Japan
+Japan,Germany
+Germany,Japan
+Japan,Thailand
+Thailand,Singapore
+Singapore,Hong Kong
+Hong Kong,Guam
+Guam,Japan
+Japan,Philippines
+Philippines,Japan
+Japan,China
+China,Japan
+Japan,Germany
+Germany,Japan
+Japan,Thailand
+Thailand,Singapore
+Singapore,Hong Kong
+Hong Kong,Guam
+Guam,Japan
+Japan,Philippines
+Philippines,Japan
+Japan,Germany
+Germany,Japan
+Japan,Thailand
+Thailand,Singapore
+Singapore,Hong Kong
+Hong Kong,Guam
+Guam,Japan
+Japan,Philippines
+Philippines,Japan
+Japan,Solomon Islands
+Solomon Islands,Japan
+Japan,Thailand
+Thailand,Singapore
+Singapore,Hong Kong
+Hong Kong,Guam
+Guam,Japan
+Japan,Philippines
+Philippines,Japan
+Japan,Solomon Islands
+Solomon Islands,Japan
+Japan,Philippines
+Philippines,Japan
+Japan,Solomon Islands
+Solomon Islands,Japan
+Solomon Islands,Japan
+Japan,Guam
+Guam,Japan
+Japan,India
+India,Japan
+Solomon Islands,Japan
+Japan,Guam
+Guam,Japan
+Japan,India
+India,Japan
+Solomon Islands,Japan
+Japan,Guam
+Guam,Japan
+Japan,India
+India,Japan
+Japan,Guam
+Guam,Japan
+Japan,India
+India,Japan
+Japan,Guam
+Guam,Japan
+Japan,India
+India,Japan
+Japan,China
+Guam,Japan
+Japan,India
+India,Japan
+Japan,China
+Japan,China
+Japan,China
+Japan,China
+Japan,China
+China,Japan
+Japan,Russia
+Russia,France
+France,China
+China,India
+India,Pakistan
+Pakistan,Israel
+Israel,South Africa
+South Africa,Israel
+Russia,France
+France,China
+China,India
+India,Pakistan
+Pakistan,Israel
+Israel,South Africa
+South Africa,Israel
+Israel,Libya
+Libya,Iran
+Russia,France
+France,China
+China,India
+India,Pakistan
+Pakistan,Israel
+Israel,South Africa
+South Africa,Israel
+Israel,Libya
+Libya,Iran
+Russia,France
+France,China
+China,India
+India,Pakistan
+Pakistan,Israel
+Israel,South Africa
+South Africa,Israel
+Israel,Libya
+Libya,Iran
+Russia,France
+France,China
+China,India
+India,Pakistan
+Pakistan,Israel
+Israel,South Africa
+South Africa,Israel
+Israel,Libya
+Libya,Iran
+Russia,France
+France,China
+China,India
+India,Pakistan
+Pakistan,Israel
+Israel,South Africa
+South Africa,Israel
+Israel,Libya
+Libya,Iran
+Iran,Germany
+Germany,Great Britain
+Great Britain,France
+Libya,Iran
+Iran,Germany
+Germany,Great Britain
+Great Britain,France
+Germany,Great Britain
+Great Britain,France
+France,Japan
+Germany,Great Britain
+Great Britain,France
+France,Japan
+Germany,Great Britain
+Great Britain,France
+France,Japan
+Germany,Great Britain
+Great Britain,France
+France,Japan
+Papua New Guinea,India
+Papua New Guinea,India
+India,Pakistan
+Papua New Guinea,India
+India,Pakistan
+Pakistan,Philippines
+India,Pakistan
+Pakistan,Philippines
+Philippines,Laos
+Laos,Cambodia
+India,Pakistan
+Pakistan,Philippines
+Philippines,Laos
+Laos,Cambodia
+Cambodia,Kenya
+Kenya,Ghana
+Ghana,Seychelles
+India,Pakistan
+Pakistan,Philippines
+Philippines,Laos
+Laos,Cambodia
+Cambodia,Kenya
+Kenya,Ghana
+Ghana,Seychelles
+Seychelles,Guinea-Bissau
+India,Pakistan
+Pakistan,Philippines
+Philippines,Laos
+Laos,Cambodia
+Cambodia,Kenya
+Kenya,Ghana
+Ghana,Seychelles
+Seychelles,Guinea-Bissau
+Guinea-Bissau,Soviet Union
+Philippines,Laos
+Laos,Cambodia
+Cambodia,Kenya
+Kenya,Ghana
+Ghana,Seychelles
+Seychelles,Guinea-Bissau
+Guinea-Bissau,Soviet Union
+Laos,Cambodia
+Cambodia,Kenya
+Kenya,Ghana
+Ghana,Seychelles
+Seychelles,Guinea-Bissau
+Guinea-Bissau,Soviet Union
+Kenya,Ghana
+Ghana,Seychelles
+Seychelles,Guinea-Bissau
+Guinea-Bissau,Soviet Union
+Guinea-Bissau,Soviet Union
+Soviet Union,Latvia
+Latvia,Estonia
+Estonia,Lithuania
+Lithuania,Finland
+Finland,Romania
+Romania,Soviet Union
+Latvia,Estonia
+Estonia,Lithuania
+Lithuania,Finland
+Finland,Romania
+Romania,Soviet Union
+Soviet Union,Albania
+Albania,Bulgaria
+Bulgaria,Poland
+Poland,Romania
+Romania,Hungary
+Latvia,Estonia
+Estonia,Lithuania
+Lithuania,Finland
+Finland,Romania
+Romania,Soviet Union
+Soviet Union,Albania
+Albania,Bulgaria
+Bulgaria,Poland
+Poland,Romania
+Romania,Hungary
+Hungary,Mongolia
+Mongolia,China
+China,North Korea
+North Korea,Cuba
+Latvia,Estonia
+Estonia,Lithuania
+Lithuania,Finland
+Finland,Romania
+Romania,Soviet Union
+Soviet Union,Albania
+Albania,Bulgaria
+Bulgaria,Poland
+Poland,Romania
+Romania,Hungary
+Hungary,Mongolia
+Mongolia,China
+China,North Korea
+North Korea,Cuba
+Latvia,Estonia
+Estonia,Lithuania
+Lithuania,Finland
+Finland,Romania
+Romania,Soviet Union
+Soviet Union,Albania
+Albania,Bulgaria
+Bulgaria,Poland
+Poland,Romania
+Romania,Hungary
+Hungary,Mongolia
+Mongolia,China
+China,North Korea
+North Korea,Cuba
+Latvia,Estonia
+Estonia,Lithuania
+Lithuania,Finland
+Finland,Romania
+Romania,Soviet Union
+Soviet Union,Albania
+Albania,Bulgaria
+Bulgaria,Poland
+Poland,Romania
+Romania,Hungary
+Hungary,Mongolia
+Mongolia,China
+China,North Korea
+North Korea,Cuba
+Cuba,North Korea
+North Korea,United States
+United States,South Korea
+Albania,Bulgaria
+Bulgaria,Poland
+Poland,Romania
+Romania,Hungary
+Hungary,Mongolia
+Mongolia,China
+China,North Korea
+North Korea,Cuba
+Cuba,North Korea
+North Korea,United States
+United States,South Korea
+South Korea,Canada
+Canada,Australia
+Australia,Great Britain
+Mongolia,China
+China,North Korea
+North Korea,Cuba
+Cuba,North Korea
+North Korea,United States
+United States,South Korea
+South Korea,Canada
+Canada,Australia
+Australia,Great Britain
+North Korea,United States
+United States,South Korea
+South Korea,Canada
+Canada,Australia
+Australia,Great Britain
+Great Britain,Vietnam
+North Korea,United States
+United States,South Korea
+South Korea,Canada
+Canada,Australia
+Australia,Great Britain
+Great Britain,Vietnam
+North Korea,United States
+United States,South Korea
+South Korea,Canada
+Canada,Australia
+Australia,Great Britain
+Great Britain,Vietnam
+South Korea,Canada
+Canada,Australia
+Australia,Great Britain
+Great Britain,Vietnam
+Cambodia,Vietnam
+Cambodia,Vietnam
+Vietnam,Cuba
+Cambodia,Vietnam
+Vietnam,Cuba
+Cambodia,Vietnam
+Vietnam,Cuba
+Vietnam,Cuba
+Vietnam,Cuba
+Cuba,United States
+Cuba,United States
+United States,Russia
+Russia,Japan
+United States,Russia
+Russia,Japan
+Russia,Japan
+Russia,Japan
+Russia,Japan
+Russia,Japan
+China,India
+China,India
+China,India
+China,India
+China,India
+China,India
+Finland,Germany
+Finland,Germany
+Finland,Germany
+Finland,Germany
+Finland,Germany
+Finland,Germany
+Germany,Britain
+Germany,Norway
+Germany,Norway
+Germany,Norway
+Germany,Norway
+Germany,Norway
+Germany,Norway
+Italy,Greece
+Italy,Greece
+Italy,Greece
+Greece,Britain
+Britain,Germany
+Germany,Britain
+Germany,Britain
+Germany,Britain
+Italy,Japan
+Italy,Japan
+Italy,Japan
+Italy,Japan
+Italy,Japan
+Italy,Japan
+India,Pakistan
+Romania,Russia
+Romania,Russia
+Romania,Russia
+Romania,Russia
+Romania,Russia
+Romania,Russia
+India,Singapore
+India,Singapore
+India,Singapore
+India,Singapore
+India,Singapore
