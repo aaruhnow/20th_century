@@ -1,775 +1,122 @@
-source, target
-France,Russia
-France,Russia
-Russia,Germany
-Germany,Austria
-Austria,Hungary
-Hungary,Bulgaria
-Bulgaria,Russia
-France,Russia
-Russia,Germany
-Germany,Austria
-Austria,Hungary
-Hungary,Bulgaria
-Bulgaria,Russia
-Russia,Germany
-Germany,Russia
-France,Russia
-Russia,Germany
-Germany,Austria
-Austria,Hungary
-Hungary,Bulgaria
-Bulgaria,Russia
-Russia,Germany
-Germany,Russia
-Russia,Germany
-France,Russia
-Russia,Germany
-Germany,Austria
-Austria,Hungary
-Hungary,Bulgaria
-Bulgaria,Russia
-Russia,Germany
-Germany,Russia
-Russia,Germany
-France,Russia
-Russia,Germany
-Germany,Austria
-Austria,Hungary
-Hungary,Bulgaria
-Bulgaria,Russia
-Russia,Germany
-Germany,Russia
-Russia,Germany
-Germany,Austria
-Austria,Hungary
-Hungary,Bulgaria
-Bulgaria,Russia
-Russia,Germany
-Germany,Russia
-Russia,Germany
-Germany,Russia
-Russia,Germany
-Germany,Italy
-Germany,Italy
-Italy,Germany
-Germany,Italy
-Italy,Germany
-Germany,Italy
-Italy,Germany
-Germany,Austria
-Austria,Germany
-Germany,Italy
-Italy,Germany
-Germany,Austria
-Austria,Germany
-Germany,Italy
-Italy,Germany
-Germany,Austria
-Austria,Germany
-Germany,Austria
-Austria,Germany
-Germany,Austria
-Austria,Germany
-Germany,Spain
-Austria,Germany
-Germany,Spain
-Britain,France
-France,Poland
-Britain,France
-France,Poland
-Britain,France
-France,Poland
-Poland,Britain
-Britain,France
-France,Germany
-Germany,Poland
-Poland,Soviet Union
-Britain,France
-France,Poland
-Poland,Britain
-Britain,France
-France,Germany
-Germany,Poland
-Poland,Soviet Union
-Britain,France
-France,Poland
-Poland,Britain
-Britain,France
-France,Germany
-Germany,Poland
-Poland,Soviet Union
-Britain,France
-France,Poland
-Poland,Britain
-Britain,France
-France,Germany
-Germany,Poland
-Poland,Soviet Union
-Poland,Britain
-Britain,France
-France,Germany
-Germany,Poland
-Poland,Soviet Union
-Britain,France
-France,Germany
-Germany,Poland
-Poland,Soviet Union
-Soviet Union,Poland
-Poland,Germany
-Poland,Germany
-Germany,Estonia
-Estonia,Latvia
-Latvia,Lithuania
-Lithuania,Finland
-Poland,Germany
-Germany,Estonia
-Estonia,Latvia
-Latvia,Lithuania
-Lithuania,Finland
-Finland,Germany
-Poland,Germany
-Germany,Estonia
-Estonia,Latvia
-Latvia,Lithuania
-Lithuania,Finland
-Finland,Germany
-Germany,Poland
-Poland,Luxembourg
-Poland,Germany
-Germany,Estonia
-Estonia,Latvia
-Latvia,Lithuania
-Lithuania,Finland
-Finland,Germany
-Germany,Poland
-Poland,Luxembourg
-Poland,Germany
-Germany,Estonia
-Estonia,Latvia
-Latvia,Lithuania
-Lithuania,Finland
-Finland,Germany
-Germany,Poland
-Poland,Luxembourg
-Luxembourg,Belgium
-Estonia,Latvia
-Latvia,Lithuania
-Lithuania,Finland
-Finland,Germany
-Germany,Poland
-Poland,Luxembourg
-Luxembourg,Belgium
-Belgium,Denmark
-Denmark,Norway
-Germany,Poland
-Poland,Luxembourg
-Luxembourg,Belgium
-Belgium,Denmark
-Denmark,Norway
-Poland,Luxembourg
-Luxembourg,Belgium
-Belgium,Denmark
-Denmark,Norway
-Norway,Denmark
-Denmark,Sweden
-Sweden,Germany
-Belgium,Denmark
-Denmark,Norway
-Norway,Denmark
-Denmark,Sweden
-Sweden,Germany
-Germany,France
-Belgium,Denmark
-Denmark,Norway
-Norway,Denmark
-Denmark,Sweden
-Sweden,Germany
-Germany,France
-Denmark,Norway
-Norway,Denmark
-Denmark,Sweden
-Sweden,Germany
-Germany,France
-Norway,Denmark
-Denmark,Sweden
-Sweden,Germany
-Germany,France
-Norway,Denmark
-Denmark,Sweden
-Sweden,Germany
-Germany,France
-France,Italy
-Italy,Britain
-Britain,Great Britain
-France,Italy
-Italy,Britain
-Britain,Great Britain
-Great Britain,Britain
-France,Italy
-Italy,Britain
-Britain,Great Britain
-Great Britain,Britain
-Britain,Germany
-France,Italy
-Italy,Britain
-Britain,Great Britain
-Great Britain,Britain
-Britain,Germany
-Italy,Britain
-Britain,Great Britain
-Great Britain,Britain
-Britain,Germany
-Italy,Britain
-Britain,Great Britain
-Great Britain,Britain
-Britain,Germany
-Britain,Germany
-Germany,Britain
-Germany,Britain
-Britain,Greece
-Greece,Albania
-Albania,Greece
-Britain,Greece
-Greece,Albania
-Albania,Greece
-Britain,Greece
-Greece,Albania
-Albania,Greece
-Greece,Albania
-Albania,Greece
-Greece,Albania
-Albania,Greece
-Greece,Ukraine
-Ukraine,Belarus
-Greece,Albania
-Albania,Greece
-Greece,Ukraine
-Ukraine,Belarus
-Ukraine,Belarus
-Ukraine,Belarus
-Ukraine,Belarus
-Belarus,Libya
-Libya,Egypt
-Ukraine,Belarus
-Belarus,Libya
-Libya,Egypt
-Egypt,Libya
-Libya,Egypt
-Egypt,Libya
-Libya,Egypt
-Libya,Egypt
-Egypt,Libya
-Libya,Egypt
-Egypt,Iraq
-Libya,Egypt
-Egypt,Libya
-Libya,Egypt
-Egypt,Iraq
-Libya,Egypt
-Egypt,Libya
-Libya,Egypt
-Egypt,Iraq
-Libya,Egypt
-Egypt,Iraq
-Egypt,Iraq
-Japan,Germany
-Japan,Germany
-Germany,Japan
-Japan,Russia
-Japan,Germany
-Germany,Japan
-Japan,Russia
-Russia,Germany
-Germany,Italy
-Japan,Germany
-Germany,Japan
-Japan,Russia
-Russia,Germany
-Germany,Italy
-Japan,Germany
-Germany,Japan
-Japan,Russia
-Russia,Germany
-Germany,Italy
-Italy,Germany
-Japan,Germany
-Germany,Japan
-Japan,Russia
-Russia,Germany
-Germany,Italy
-Italy,Germany
-Japan,Russia
-Russia,Germany
-Germany,Italy
-Italy,Germany
-Germany,Italy
-Italy,Germany
-Germany,Britain
-Britain,Morocco
-Morocco,Algeria
-Algeria,Italy
-Britain,Morocco
-Morocco,Algeria
-Algeria,Italy
-Britain,Morocco
-Morocco,Algeria
-Algeria,Italy
-Britain,Morocco
-Morocco,Algeria
-Algeria,Italy
-Britain,Morocco
-Morocco,Algeria
-Algeria,Italy
-Morocco,Algeria
-Algeria,Italy
-Italy,Britain
-Italy,Britain
-Italy,Britain
-Britain,France
-Britain,France
-France,Germany
-France,Germany
-France,Germany
-France,Germany
-Germany,France
-Germany,France
-Germany,France
-Britain,France
-Britain,France
-Britain,France
-Britain,France
-France,Poland
-Poland,Germany
-Britain,France
-France,Poland
-Poland,Germany
-Britain,France
-France,Poland
-Poland,Germany
-Poland,Germany
-Poland,Germany
-Poland,Germany
-Japan,China
-Japan,China
-China,Japan
-Japan,China
-China,Japan
-Japan,China
-China,Japan
-Japan,China
-China,Japan
-Japan,China
-China,Japan
-Japan,China
-China,Japan
-Japan,Germany
-Germany,Japan
-Japan,China
-China,Japan
-Japan,China
-China,Japan
-Japan,Germany
-Germany,Japan
-Japan,Thailand
-Thailand,Singapore
-Singapore,Hong Kong
-Hong Kong,Guam
-Japan,China
-China,Japan
-Japan,Germany
-Germany,Japan
-Japan,Thailand
-Thailand,Singapore
-Singapore,Hong Kong
-Hong Kong,Guam
-Guam,Japan
-Japan,Philippines
-Philippines,Japan
-Japan,China
-China,Japan
-Japan,Germany
-Germany,Japan
-Japan,Thailand
-Thailand,Singapore
-Singapore,Hong Kong
-Hong Kong,Guam
-Guam,Japan
-Japan,Philippines
-Philippines,Japan
-Japan,China
-China,Japan
-Japan,Germany
-Germany,Japan
-Japan,Thailand
-Thailand,Singapore
-Singapore,Hong Kong
-Hong Kong,Guam
-Guam,Japan
-Japan,Philippines
-Philippines,Japan
-Japan,Germany
-Germany,Japan
-Japan,Thailand
-Thailand,Singapore
-Singapore,Hong Kong
-Hong Kong,Guam
-Guam,Japan
-Japan,Philippines
-Philippines,Japan
-Japan,Solomon Islands
-Solomon Islands,Japan
-Japan,Thailand
-Thailand,Singapore
-Singapore,Hong Kong
-Hong Kong,Guam
-Guam,Japan
-Japan,Philippines
-Philippines,Japan
-Japan,Solomon Islands
-Solomon Islands,Japan
-Japan,Philippines
-Philippines,Japan
-Japan,Solomon Islands
-Solomon Islands,Japan
-Solomon Islands,Japan
-Japan,Guam
-Guam,Japan
-Japan,India
-India,Japan
-Solomon Islands,Japan
-Japan,Guam
-Guam,Japan
-Japan,India
-India,Japan
-Solomon Islands,Japan
-Japan,Guam
-Guam,Japan
-Japan,India
-India,Japan
-Japan,Guam
-Guam,Japan
-Japan,India
-India,Japan
-Japan,Guam
-Guam,Japan
-Japan,India
-India,Japan
-Japan,China
-Guam,Japan
-Japan,India
-India,Japan
-Japan,China
-Japan,China
-Japan,China
-Japan,China
-Japan,China
-China,Japan
-Japan,Russia
-Russia,France
-France,China
-China,India
-India,Pakistan
-Pakistan,Israel
-Israel,South Africa
-South Africa,Israel
-Russia,France
-France,China
-China,India
-India,Pakistan
-Pakistan,Israel
-Israel,South Africa
-South Africa,Israel
-Israel,Libya
-Libya,Iran
-Russia,France
-France,China
-China,India
-India,Pakistan
-Pakistan,Israel
-Israel,South Africa
-South Africa,Israel
-Israel,Libya
-Libya,Iran
-Russia,France
-France,China
-China,India
-India,Pakistan
-Pakistan,Israel
-Israel,South Africa
-South Africa,Israel
-Israel,Libya
-Libya,Iran
-Russia,France
-France,China
-China,India
-India,Pakistan
-Pakistan,Israel
-Israel,South Africa
-South Africa,Israel
-Israel,Libya
-Libya,Iran
-Russia,France
-France,China
-China,India
-India,Pakistan
-Pakistan,Israel
-Israel,South Africa
-South Africa,Israel
-Israel,Libya
-Libya,Iran
-Iran,Germany
-Germany,Great Britain
-Great Britain,France
-Libya,Iran
-Iran,Germany
-Germany,Great Britain
-Great Britain,France
-Germany,Great Britain
-Great Britain,France
-France,Japan
-Germany,Great Britain
-Great Britain,France
-France,Japan
-Germany,Great Britain
-Great Britain,France
-France,Japan
-Germany,Great Britain
-Great Britain,France
-France,Japan
-Papua New Guinea,India
-Papua New Guinea,India
-India,Pakistan
-Papua New Guinea,India
-India,Pakistan
-Pakistan,Philippines
-India,Pakistan
-Pakistan,Philippines
-Philippines,Laos
-Laos,Cambodia
-India,Pakistan
-Pakistan,Philippines
-Philippines,Laos
-Laos,Cambodia
-Cambodia,Kenya
-Kenya,Ghana
-Ghana,Seychelles
-India,Pakistan
-Pakistan,Philippines
-Philippines,Laos
-Laos,Cambodia
-Cambodia,Kenya
-Kenya,Ghana
-Ghana,Seychelles
-Seychelles,Guinea-Bissau
-India,Pakistan
-Pakistan,Philippines
-Philippines,Laos
-Laos,Cambodia
-Cambodia,Kenya
-Kenya,Ghana
-Ghana,Seychelles
-Seychelles,Guinea-Bissau
-Guinea-Bissau,Soviet Union
-Philippines,Laos
-Laos,Cambodia
-Cambodia,Kenya
-Kenya,Ghana
-Ghana,Seychelles
-Seychelles,Guinea-Bissau
-Guinea-Bissau,Soviet Union
-Laos,Cambodia
-Cambodia,Kenya
-Kenya,Ghana
-Ghana,Seychelles
-Seychelles,Guinea-Bissau
-Guinea-Bissau,Soviet Union
-Kenya,Ghana
-Ghana,Seychelles
-Seychelles,Guinea-Bissau
-Guinea-Bissau,Soviet Union
-Guinea-Bissau,Soviet Union
-Soviet Union,Latvia
-Latvia,Estonia
-Estonia,Lithuania
-Lithuania,Finland
-Finland,Romania
-Romania,Soviet Union
-Latvia,Estonia
-Estonia,Lithuania
-Lithuania,Finland
-Finland,Romania
-Romania,Soviet Union
-Soviet Union,Albania
-Albania,Bulgaria
-Bulgaria,Poland
-Poland,Romania
-Romania,Hungary
-Latvia,Estonia
-Estonia,Lithuania
-Lithuania,Finland
-Finland,Romania
-Romania,Soviet Union
-Soviet Union,Albania
-Albania,Bulgaria
-Bulgaria,Poland
-Poland,Romania
-Romania,Hungary
-Hungary,Mongolia
-Mongolia,China
-China,North Korea
-North Korea,Cuba
-Latvia,Estonia
-Estonia,Lithuania
-Lithuania,Finland
-Finland,Romania
-Romania,Soviet Union
-Soviet Union,Albania
-Albania,Bulgaria
-Bulgaria,Poland
-Poland,Romania
-Romania,Hungary
-Hungary,Mongolia
-Mongolia,China
-China,North Korea
-North Korea,Cuba
-Latvia,Estonia
-Estonia,Lithuania
-Lithuania,Finland
-Finland,Romania
-Romania,Soviet Union
-Soviet Union,Albania
-Albania,Bulgaria
-Bulgaria,Poland
-Poland,Romania
-Romania,Hungary
-Hungary,Mongolia
-Mongolia,China
-China,North Korea
-North Korea,Cuba
-Latvia,Estonia
-Estonia,Lithuania
-Lithuania,Finland
-Finland,Romania
-Romania,Soviet Union
-Soviet Union,Albania
-Albania,Bulgaria
-Bulgaria,Poland
-Poland,Romania
-Romania,Hungary
-Hungary,Mongolia
-Mongolia,China
-China,North Korea
-North Korea,Cuba
-Cuba,North Korea
-North Korea,United States
-United States,South Korea
-Albania,Bulgaria
-Bulgaria,Poland
-Poland,Romania
-Romania,Hungary
-Hungary,Mongolia
-Mongolia,China
-China,North Korea
-North Korea,Cuba
-Cuba,North Korea
-North Korea,United States
-United States,South Korea
-South Korea,Canada
-Canada,Australia
-Australia,Great Britain
-Mongolia,China
-China,North Korea
-North Korea,Cuba
-Cuba,North Korea
-North Korea,United States
-United States,South Korea
-South Korea,Canada
-Canada,Australia
-Australia,Great Britain
-North Korea,United States
-United States,South Korea
-South Korea,Canada
-Canada,Australia
-Australia,Great Britain
-Great Britain,Vietnam
-North Korea,United States
-United States,South Korea
-South Korea,Canada
-Canada,Australia
-Australia,Great Britain
-Great Britain,Vietnam
-North Korea,United States
-United States,South Korea
-South Korea,Canada
-Canada,Australia
-Australia,Great Britain
-Great Britain,Vietnam
-South Korea,Canada
-Canada,Australia
-Australia,Great Britain
-Great Britain,Vietnam
-Cambodia,Vietnam
-Cambodia,Vietnam
-Vietnam,Cuba
-Cambodia,Vietnam
-Vietnam,Cuba
-Cambodia,Vietnam
-Vietnam,Cuba
-Vietnam,Cuba
-Vietnam,Cuba
-Cuba,United States
-Cuba,United States
-United States,Russia
-Russia,Japan
-United States,Russia
-Russia,Japan
-Russia,Japan
-Russia,Japan
-Russia,Japan
-Russia,Japan
-China,India
-China,India
-China,India
-China,India
-China,India
-China,India
-Finland,Germany
-Finland,Germany
-Finland,Germany
-Finland,Germany
-Finland,Germany
-Finland,Germany
-Germany,Britain
-Germany,Norway
-Germany,Norway
-Germany,Norway
-Germany,Norway
-Germany,Norway
-Germany,Norway
-Italy,Greece
-Italy,Greece
-Italy,Greece
-Greece,Britain
-Britain,Germany
-Germany,Britain
-Germany,Britain
-Germany,Britain
-Italy,Japan
-Italy,Japan
-Italy,Japan
-Italy,Japan
-Italy,Japan
-Italy,Japan
-India,Pakistan
-Romania,Russia
-Romania,Russia
-Romania,Russia
-Romania,Russia
-Romania,Russia
-Romania,Russia
-India,Singapore
-India,Singapore
-India,Singapore
-India,Singapore
-India,Singapore
+source,target,value
+France,Russia,1
+Russia,Germany,1
+Germany,Austria,1
+Austria,Hungary,1
+Hungary,Bulgaria,1
+Bulgaria,Russia,1
+Germany,Russia,1
+Germany,Italy,1
+Italy,Germany,1
+Austria,Germany,1
+Germany,Spain,1
+Britain,France,1
+France,Poland,1
+Poland,Britain,1
+France,Germany,1
+Germany,Poland,1
+Poland,Soviet Union,1
+Soviet Union,Poland,1
+Poland,Germany,1
+Germany,Estonia,1
+Estonia,Latvia,1
+Latvia,Lithuania,1
+Lithuania,Finland,1
+Finland,Germany,1
+Poland,Luxembourg,1
+Luxembourg,Belgium,1
+Belgium,Denmark,1
+Denmark,Norway,1
+Norway,Denmark,1
+Denmark,Sweden,1
+Sweden,Germany,1
+Germany,France,1
+France,Italy,1
+Italy,Britain,1
+Britain,Great Britain,1
+Great Britain,Britain,1
+Britain,Germany,1
+Germany,Britain,1
+Britain,Greece,1
+Greece,Albania,1
+Albania,Greece,1
+Greece,Ukraine,1
+Ukraine,Belarus,1
+Belarus,Libya,1
+Libya,Egypt,1
+Egypt,Libya,1
+Egypt,Iraq,1
+Japan,Germany,1
+Germany,Japan,1
+Japan,Russia,1
+Britain,Morocco,1
+Morocco,Algeria,1
+Algeria,Italy,1
+Japan,China,1
+China,Japan,1
+Japan,Thailand,1
+Thailand,Singapore,1
+Singapore,Hong Kong,1
+Hong Kong,Guam,1
+Guam,Japan,1
+Japan,Philippines,1
+Philippines,Japan,1
+Japan,Solomon Islands,1
+Solomon Islands,Japan,1
+Japan,Guam,1
+Japan,India,1
+India,Japan,1
+Russia,France,1
+France,China,1
+China,India,1
+India,Pakistan,1
+Pakistan,Israel,1
+Israel,South Africa,1
+South Africa,Israel,1
+Israel,Libya,1
+Libya,Iran,1
+Iran,Germany,1
+Germany,Great Britain,1
+Great Britain,France,1
+France,Japan,1
+Papua New Guinea,India,1
+Pakistan,Philippines,1
+Philippines,Laos,1
+Laos,Cambodia,1
+Cambodia,Kenya,1
+Kenya,Ghana,1
+Ghana,Seychelles,1
+Seychelles,Guinea-Bissau,1
+Guinea-Bissau,Soviet Union,1
+Soviet Union,Latvia,1
+Latvia,Estonia,1
+Estonia,Lithuania,1
+Finland,Romania,1
+Romania,Soviet Union,1
+Soviet Union,Albania,1
+Albania,Bulgaria,1
+Bulgaria,Poland,1
+Poland,Romania,1
+Romania,Hungary,1
+Hungary,Mongolia,1
+Mongolia,China,1
+China,North Korea,1
+North Korea,Cuba,1
+Cuba,North Korea,1
+North Korea,United States,1
+United States,South Korea,1
+South Korea,Canada,1
+Canada,Australia,1
+Australia,Great Britain,1
+Great Britain,Vietnam,1
+Cambodia,Vietnam,1
+Vietnam,Cuba,1
+Cuba,United States,1
+United States,Russia,1
+Russia,Japan,1
+Germany,Norway,1
+Italy,Greece,1
+Greece,Britain,1
+Italy,Japan,1
+Romania,Russia,1
+India,Singapore,1
