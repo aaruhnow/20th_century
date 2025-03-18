@@ -1,7 +1,7 @@
 # 🌍 Twentieth-Century Global Relations Analysis
 
 ## Objective  
-As a **freelance analyst** contracted by the **Institute for Public Policy**, this project aims to provide an analytical overview and visualization of global interrelations throughout the twentieth century. By examining historical ties between countries, the goal is to uncover patterns in geopolitical relationships and inform ongoing research.
+This project aims to provide an analytical overview and visualization of global interrelations throughout the twentieth century. By examining historical ties between countries, the goal is to uncover patterns in geopolitical relationships and inform ongoing research.
 
 ## Context  
 The **Institute for Public Policy** believes that historical events heavily shape modern geopolitics. To validate this hypothesis, a **visual representation of past relationships** is needed.  
